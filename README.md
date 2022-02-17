@@ -10,6 +10,10 @@
 - Click on the address bar
 - Go to https://react-shooter.vercel.app
 
+### Available Scripts
+- You can learn them in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- To learn React, check out the [React documentation](https://reactjs.org/).
+
 ### Deploying to the web
 I suggest you to use [Vercel](https://vercel.com) or [Netlify](https://netlify.com) when deploying this project to the web. It will be easier when deploying with Vercel or Netlify.
 
