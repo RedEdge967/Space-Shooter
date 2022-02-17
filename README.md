@@ -1,5 +1,6 @@
 # Space-Shooter
 - A ReactJS Space shooting game made with HTML5 and JavaScript
+- This game is made with `Create React App`
 - You can try the online demo [here](https://react-shooter.vercel.app)
 
 ### [Live Demo](https://react-shooter.vercel.app)
